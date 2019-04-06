@@ -1,10 +1,10 @@
-# What language Data Scientist use most?  (from 2018 Stack Overflow Developer Survey )
+## What language Data Scientist use most?  (from 2018 Stack Overflow Developer Survey )
 
 (survey from total about 100000 users)
 
 
 
-### Programming Language Ranking ( Data scientist or machine learning specialist)
+##### Programming Language Ranking ( Data scientist or machine learning specialist)
 
 ![1554520046807](assets/1554520046807.png)
 
@@ -14,19 +14,25 @@
 
 
 
-Respondents can choose several programming languages. (among 37 programming languages)
+* Respondents can choose several programming languages. (among 37 programming languages)
 
-Respondents can also choose several Dev types. (among 20 Dev types)
+* Respondents can also choose several Dev types. (among 20 Dev types)
 
 ![1554519715394](assets/1554519715394.png)
 
-After Preprocessing, data became tabular type.
+- After Preprocessing, data became tabular type.
 
 
 
-# How similar different developers each other in terms of their programming language?
 
-#### We can plot on 2D space by using MDS(multi dimensional scaling )
+
+
+
+
+
+### How similar different developers each other in terms of their programming language?
+
+##### We can plot on 2D space by using MDS(multi dimensional scaling )
 
 
 

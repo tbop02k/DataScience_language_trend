@@ -1,6 +1,6 @@
-## What programming language Data Scientist use most?  (from 2018 Stack Overflow Developer Survey )
+## What programming language does Data Scientists use the most?  (from the 2018 Stack Overflow Developer Survey )
 
-(survey from total about 100000 users)
+(survey with a total of  about 100000 users)
 
 Dataset: <https://www.kaggle.com/stackoverflow/datasets>
 
@@ -16,13 +16,13 @@ Dataset: <https://www.kaggle.com/stackoverflow/datasets>
 
 
 
-* Respondents can choose several programming languages. (among 37 programming languages)
+* Respondents can choose several programming languages. (from a  list of 37 programming languages)
 
-* Respondents can also choose several Dev types. (among 20 Dev types)
+* Respondents can also choose several Dev types. (from a list of 20 Dev types)
 
 ![1554519715394](assets/1554519715394.png)
 
-- After Preprocessing, data became tabular type.
+- Data was changed in to the tabular type
 
 
 
@@ -32,9 +32,9 @@ Dataset: <https://www.kaggle.com/stackoverflow/datasets>
 
 
 
-### How similar different developers each other in terms of their programming language?
+### How are different developers similar to each other in terms of their programming language?
 
-##### We can plot on 2D space by using MDS(multi dimensional scaling )
+##### We can plot on a 2D space by using MDS(multi dimensional scaling )
 
 
 
@@ -48,9 +48,9 @@ what is MDS?
 
 ![1554546123790](assets/1554546123790.png)
 
-Simply say,  MDS is one of dimensionality reduction algorithm that enable to plot multidimensional data into 2-D or higher dimensional space.
+Simply put,  MDS is one of dimensionality reduction algorithms that enable us to plot multidimensional data into a 2-D or a higher dimensional space.
 
-**MDS find desire points that minimize stress loss. MDS fits with stress values near zero are the best.**
+**MDS finds desire points that minimize stress loss, therefore MDS is a good fit for stress values near zero**
 
  ( Here, dij is actual distance and ||xi-xj|| is predicted distance ( 2D in this example) )
 

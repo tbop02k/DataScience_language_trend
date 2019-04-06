@@ -22,7 +22,7 @@ Dataset: <https://www.kaggle.com/stackoverflow/datasets>
 
 ![1554519715394](assets/1554519715394.png)
 
-- Data was changed in to the tabular type
+- Data was changed into the tabular type
 
 
 

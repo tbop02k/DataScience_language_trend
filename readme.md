@@ -1,4 +1,4 @@
-## What programming language does Data Scientists use the most?  (from the 2018 Stack Overflow Developer Survey )
+## What programming language does Data Scientist use the most?  (from the 2018 Stack Overflow Developer Survey )
 
 (survey with a total of  about 100000 users)
 
